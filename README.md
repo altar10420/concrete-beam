@@ -1,0 +1,1 @@
+This program will help to make basic calculations of simple, single-span concrete beam.
